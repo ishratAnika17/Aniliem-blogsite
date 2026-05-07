@@ -6,7 +6,7 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:667eea,100:764ba2&height=200&section=header&text=Blog%20Post%20App&fontSize=40&fontColor=ffffff&animation=fadeIn" />
 </p>
 
-<h1 align="center">📝 Blog Post Web Application</h1>
+<h1 align="center">📝Aniliem Blog Site </h1>
 
 <p align="center">
   🚀 A modern PHP-based blog system with authentication, posts & comments  
